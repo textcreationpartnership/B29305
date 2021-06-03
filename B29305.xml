@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A satyr upon the French king written by a Non-swearing parson ...</title>
+            <author>Non-swearing parson.</author>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B29305</idno><idno type="EEBO-CITATION">19475630</idno>
+  <idno type="VID">205523</idno>
+  <idno type="EEBO-PROQUEST">2240869151</idno>
+  
+            <idno type="STC">Wing S720</idno>
+            <idno type="OCLC">19475630</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B29305)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 205523)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1677:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A satyr upon the French king written by a Non-swearing parson ...</title>
+                  <author>Non-swearing parson.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Will. Jac-about,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>in the year of peace  [1697]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Caption title.</note>
+                  <note>Satire on Louis XIV and the Peace of Ryswick.</note>
+                  <note>Date of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Louis --  XIV, --  King of France, 1638-1715 --  Poetry.</term>
+               <term type="topical_term">Grand Alliance, War of the, 1689-1697 --  Poetry.</term>
+               <term type="topical_term">Political satire, English.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:205523:1"/>
+            <pb facs="tcp:205523:1"/>
+            <head>
+               <hi>A</hi> SATYR <hi>upon the</hi> French <hi>King,</hi> Written by a Non-Swearing Parson, and drop'd out of his Pocket at <hi>Samm</hi>'s Coffee-House.</head>
+            <q>
+               <hi>Facit indignatio Versum.</hi>
+            </q>
+            <lg>
+               <l>AND hast thou left Old <hi>JEMMY</hi> in the Lurch?</l>
+               <l>A plague confound the Doctors of <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hy Church.</l>
+               <l>Then to abandon poor <hi>Italian Molly,</hi>
+               </l>
+               <l>That I' had' the sirking of thy Bumm with Holly!</l>
+               <l>Next to discard the Virtuous Prince of <hi>Wales,</hi>
+               </l>
+               <l>How suits this with the Honour of <hi>Versailes?</hi>
+               </l>
+               <l>Fourthly, and Lastly, to renounce the <hi>Turks,</hi>
+               </l>
+               <l>Why, this is the Devil, the Devil, and all his Works.</l>
+               <l>Were I thy Confessor, who am thy Martyr,</l>
+               <l>Dost think that I'de allow thee any Quarter,</l>
+               <l>No— thou shoudst find what 'tis to be a Starter.</l>
+               <l>Lord! with what monstrous Lies, and senseless Shamms,</l>
+               <l>Have we been cullied all a-long at <hi>Samms.</hi>
+               </l>
+               <l>Who cou'd have e're believ'd, unless in Spite,</l>
+               <l>
+                  <hi>Lewis le Grand</hi> wou'd turn rank <hi>Williamite?</hi>
+               </l>
+               <l>Thou, that hast Look'd so fierce, and Talk'd so bigg,</l>
+               <l>In thy Old Age to dwindle to a <hi>Whigg,</hi>
+               </l>
+               <l>By Heaven, I see thou'rt in thy heart a Prigg.</l>
+               <l>I'de not be for a Million in thy Jerkin,</l>
+               <l>'Fore <hi>George</hi> thy Soul's no bigger than a Gerkin.</l>
+               <l>Hast thou for this spent so much <hi>Ready Rhino?</hi>
+               </l>
+               <l>Now, what the Plague will become of <hi>Jure Divino?</hi>
+               </l>
+               <l>A Change so monstrous I cou'd ne're have thought,</l>
+               <l>Though <hi>Partridge</hi> all his Stars to vouch it, brought,</l>
+               <l>S'life, I'le not take thy Honour for a Groat.</l>
+               <l>Ev'n Oaths, with thee, are only things of Course,</l>
+               <l>Thou 'Zoons, thou art a Monarch for a House.</l>
+               <l>Of Kings distress'd thou art a fine Securer,</l>
+               <l>'Thou make'st me Swear, that am a known <hi>Non-Jurer.</hi>
+               </l>
+               <l>But tho' I swear thus, as I said before,</l>
+               <l>Know, King, I'le place it all upon thy Score.</l>
+               <l>Were <hi>Job</hi> alive, and banter'd by such Shufflers,</l>
+               <l>He'd out-rail <hi>Oats,</hi> and Curse both thee and <hi>Boufflers.</hi>
+               </l>
+               <l>For thee I've lost, if I can rightly scann 'em,</l>
+               <l>Two Livings worth full Eightscore Pounds <hi>per Annum,</hi>
+               </l>
+               <l>
+                  <hi>Bonae, &amp; legalis Angliae Monetae,</hi>
+               </l>
+               <l>But now I'm clearly routed by the Treaty.</l>
+               <l>Then Geese and Pigs my Table ne're did fail.</l>
+               <l>And Tyth-Eggs merrily flew in like hail,</l>
+               <l>My Barns with Corn, my Cellars cramm'd with Ale.</l>
+               <l>The Dice are chang'd, for now; as I'm a sinner,</l>
+               <l>The Devil, for me, knows where to buy a Dinner.</l>
+               <l>I might as soon, tho' I were ne're so willing,</l>
+               <l>Raise a whole Troop of Horse; as one poor Shilling.</l>
+               <l>My <hi>Spouse,</hi> Alass; must flaunt in Silks no more,</l>
+               <l>Pray Heaven, for Sustenance, she turn not Whore;</l>
+               <l>And Daughter <hi>Peggy</hi> too, in time, I fear,</l>
+               <l>Will learn to take a Stone up in her Ear.</l>
+               <l>My Friends have basely left me with my place,</l>
+               <l>What's worse, my very Pimples bilk my face.</l>
+               <l>And frankly my Condition to disclose,</l>
+               <l>I most resent th' ungratitude of my Nose,</l>
+               <l>On which tho' I have spent of Wine such store,</l>
+               <l>It now looks paler than my Tavern score.</l>
+               <pb facs="tcp:205523:2"/>
+               <pb facs="tcp:205523:2"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:205523:3"/>
+               <l>My double Chin's dismantled, and my Coat is</l>
+               <l>Past its best days, <hi>in Verbo Sacerdotis.</hi>
+               </l>
+               <l>My Bre<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ches too this morning, to my wonder,</l>
+               <l>I found grown Schismatics, and fallen assunder.</l>
+               <l>When first I came to Town with Houshold-Clogg.</l>
+               <l>Rings, Watch, and so forth, fairly went for Progg.</l>
+               <l>The Ancient <hi>F<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>thers</hi> next, in whom I boasted,</l>
+               <l>Were soon exchang'd for primitive Boil'd and Roasted.</l>
+               <l>Since 'tis no Sin of Books to be a Glutton,</l>
+               <l>I truck'd <hi>St. Austin</hi> for a Leg of Mutton.</l>
+               <l>Old <hi>Jerem</hi>'s Volumes next I made a Rape on,</l>
+               <l>And melted down that Father for a Capon.</l>
+               <l>When these were gone, my Bowels not to balk,</l>
+               <l>I trespass'd most <hi>en<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rmously</hi> in Chalk.</l>
+               <l>But long I had not Quarter'd upon Tick,</l>
+               <l>E're Christian Faith, I found, grew monstrous sick:</l>
+               <l>And now, Alass! when my starv'd Entrails croke,</l>
+               <l>At <hi>Partner How</hi>'s I Dine and Sup on Smoke.</l>
+               <l>In fine, the Government may do its Will,</l>
+               <l>But I'm afraid my Guts will <hi>Grumble</hi> still.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Dennis,</hi> of <hi>Sicily,</hi> as Books relate, Sir,</l>
+               <l>When he was tumbled from the Regal State, Sir,</l>
+               <l>(Which, by the by, I hope will be your Fate, Sir,)</l>
+               <l>And his good Subjects left him in the lurch,</l>
+               <l>Turn'd Pedagogue, and <hi>Tyranniz'd</hi> in Birch:</l>
+               <l>Tho' thus the <hi>Spark</hi> was taken a pegg lower,</l>
+               <l>Some feeble signs of his old State he bore,</l>
+               <l>And Reign'd o're Boys, that Govern'd Men before.</l>
+               <l>For thee I wish some Punishment that worse is,</l>
+               <l>Since then thou 'hast spoil'd my Prayers, now hear my Curses.</l>
+               <l>May thy Affairs (for so I wish by Heavens)</l>
+               <l>All the World o're at Sixes ly and Sevens.</l>
+               <l>May <hi>Conti</hi> be imposs'd on by the <hi>Primate,</hi>
+               </l>
+               <l>And forc'd, in hast, to leave the Northern Climate:</l>
+               <l>May he rely upon their Faith, and try it,</l>
+               <l>And have his Bellyfull of the <hi>Polish Dyet.</hi>
+               </l>
+               <l>May <hi>Maintenon,</hi> tho' thou so long hast kept her,</l>
+               <l>With Brand-Venereal singe thy Royal Scepter.</l>
+               <l>May all the Poets, that thy Fame have scatter'd,</l>
+               <l>Un-god thee now, and Damn what once they flatter'd.</l>
+               <l>The Pope, and Thou, be never Cater Cosins,</l>
+               <l>And <hi>Fistula's</hi> thy Arse-hole seize by Dozens.</l>
+            </lg>
+            <lg>
+               <l>Thus far in Jest; but now, to pin the basket,</l>
+               <l>Mayst thou to <hi>England</hi> come, of <hi>Jove</hi> I ask it,</l>
+               <l>Thy wretched Fortune, <hi>Lewis,</hi> there to prop,</l>
+               <l>I hope thou'lt in the <hi>Fryars</hi> take a shop.</l>
+               <l>Turn Puny-Barber there, bleed lousy Carmen,</l>
+               <l>Cut Corns for Chimney-Sweepers, and such Vermin,</l>
+               <l>Be forc'd to Trimm (for such I'me sure thy Fate is,)</l>
+               <l>Thy own <hi>Hugonots,</hi> and Us <hi>Non-Jurors,</hi> gratis.</l>
+               <l>May <hi>Savoy</hi> likewise with thee hither pack,</l>
+               <l>And carry a <hi>Raree-Show</hi> upon his back.</l>
+               <l>May all this happen, as I've put my Pen to 't,</l>
+               <l>And may all <hi>Christian</hi> People say <hi>Amen</hi> to 't.</l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>Will. Jac-about,</hi> in the Year of Peace.</p>
+            <pb facs="tcp:205523:3"/>
+         </div>
+      </back>
+   </text>
+</TEI>
